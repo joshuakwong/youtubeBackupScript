@@ -16,3 +16,6 @@ Do your part, conserve the truth and history of your country.
 Go to youtube and look for the playlist you want to download, paste the playlist link on line 17
 
 you need a directory named `output` on the same level.
+
+
+[4th Estate]: https://en.wikipedia.org/wiki/Fourth_Estate
